@@ -1,0 +1,11 @@
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\bin\Debug\SQLBuilderDemo.exe
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\bin\Debug\SQLBuilderDemo.pdb
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.FrmMain.resources
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.Properties.Resources.resources
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.csproj.GenerateResource.Cache
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.exe
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.pdb
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.FrmTable.resources
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.FrmRelation.resources
+F:\Projects\Demo\SQLBuilderDemo\SQLBuilderDemo\obj\Debug\SQLBuilderDemo.TablePanel.resources
