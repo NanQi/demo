@@ -1,0 +1,9 @@
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\bin\Debug\WinFormSelectDemo.exe
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\bin\Debug\WinFormSelectDemo.pdb
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\WinFormSelectDemo.Form1.resources
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\WinFormSelectDemo.Properties.Resources.resources
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\WinFormSelectDemo.exe
+F:\Projects\Demo\SelectDemo\WinFormSelectDemo\obj\x86\Debug\WinFormSelectDemo.pdb

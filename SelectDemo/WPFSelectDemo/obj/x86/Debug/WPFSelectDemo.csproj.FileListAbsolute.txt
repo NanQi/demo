@@ -1,0 +1,15 @@
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\bin\Debug\WPFSelectDemo.exe
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\bin\Debug\WPFSelectDemo.pdb
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\MainWindow.baml
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\MainWindow.g.cs
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\App.g.cs
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\WPFSelectDemo_MarkupCompile.cache
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\WPFSelectDemo.g.resources
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\WPFSelectDemo.Properties.Resources.resources
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\WPFSelectDemo.exe
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\WPFSelectDemo.pdb
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\CheckedListBox.baml
+F:\Projects\Demo\SelectDemo\WPFSelectDemo\obj\x86\Debug\App.baml
