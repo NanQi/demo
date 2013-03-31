@@ -1,0 +1,10 @@
+F:\Projects\blog\csharp\FilterDemo\DHC.Control\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\blog\csharp\FilterDemo\DHC.Control\bin\Debug\NanQi.Controls.dll
+F:\Projects\blog\csharp\FilterDemo\DHC.Control\bin\Debug\NanQi.Controls.pdb
+F:\Projects\blog\csharp\FilterDemo\DHC.Control\obj\Debug\NanQi.Controls.dll
+F:\Projects\blog\csharp\FilterDemo\DHC.Control\obj\Debug\NanQi.Controls.pdb
+F:\Projects\blog\csharp\FilterDemo\NanQi.Control\bin\Debug\NanQi.Controls.dll
+F:\Projects\blog\csharp\FilterDemo\NanQi.Control\bin\Debug\NanQi.Controls.pdb
+F:\Projects\blog\csharp\FilterDemo\NanQi.Control\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\blog\csharp\FilterDemo\NanQi.Control\obj\Debug\NanQi.Controls.dll
+F:\Projects\blog\csharp\FilterDemo\NanQi.Control\obj\Debug\NanQi.Controls.pdb

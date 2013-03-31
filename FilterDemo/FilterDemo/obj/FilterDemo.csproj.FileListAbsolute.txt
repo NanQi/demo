@@ -1,0 +1,13 @@
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.Properties.Resources.resources
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.UCFilter.resources
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.csproj.GenerateResource.Cache
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.FrmSift.resources
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\bin\Debug\FilterDemo.exe
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\bin\Debug\FilterDemo.pdb
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.exe
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.pdb
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\bin\Debug\NanQi.Controls.dll
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\bin\Debug\NanQi.Controls.pdb
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.FrmMain.resources
+F:\Projects\blog\csharp\FilterDemo\FilterDemo\obj\Debug\FilterDemo.FrmFilter.resources
