@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9FCEE2A2-DA54-4A78-8C7C-FF164A4F074A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NanQi.Project.Form2</RootNamespace>
+    <AssemblyName>NanQi.Project.Form2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NanQi.Framework.Common">
+      <HintPath>..\Libs\NanQi.Framework.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="NanQi.Framework.Control">
+      <HintPath>..\Libs\NanQi.Framework.Control.dll</HintPath>
+    </Reference>
+    <Reference Include="NanQi.Framework.Host">
+      <HintPath>..\Libs\NanQi.Framework.Host.dll</HintPath>
+    </Reference>
+    <Reference Include="NanQi.Framework.Presentation">
+      <HintPath>..\Libs\NanQi.Framework.Presentation.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\Libs\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="T_ChooseUser\T_ChooseUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_ChooseUser\T_ChooseUser.Designer.cs">
+      <DependentUpon>T_ChooseUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_RoleManager\FrmDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_RoleManager\FrmDialog.Designer.cs">
+      <DependentUpon>FrmDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="T_RoleManager\T_RoleManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_RoleManager\T_RoleManager.Designer.cs">
+      <DependentUpon>T_RoleManager.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Trade.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="T_ChooseUser\T_ChooseUser.resx">
+      <DependentUpon>T_ChooseUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_RoleManager\FrmDialog.resx">
+      <DependentUpon>FrmDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_RoleManager\T_RoleManager.resx">
+      <DependentUpon>T_RoleManager.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

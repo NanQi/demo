@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <category title="业务">
+    </category>
+
+    <category title="管理">
+        <trade title="用户管理" action="NanQi.Project.Form1.T_UserManager"/>
+        <trade title="角色管理" action="NanQi.Project.Form2.T_RoleManager"/>
+    </category>
+</menu>

@@ -1,0 +1,5 @@
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Control\bin\Debug\NanQi.Project.Control.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Control\bin\Debug\NanQi.Project.Control.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Control\obj\Debug\ResolveAssemblyReference.cache
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Control\obj\Debug\NanQi.Project.Control.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Control\obj\Debug\NanQi.Project.Control.pdb

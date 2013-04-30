@@ -1,0 +1,8 @@
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\bin\Debug\NanQi.Project.Common.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\bin\Debug\NanQi.Project.Common.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\obj\x86\Debug\ResolveAssemblyReference.cache
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\obj\x86\Debug\NanQi.Project.Common.Properties.Resources.resources
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\obj\x86\Debug\GenerateResource.read.1.tlog
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\obj\x86\Debug\GenerateResource.write.1.tlog
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\obj\x86\Debug\NanQi.Project.Common.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Common\obj\x86\Debug\NanQi.Project.Common.pdb

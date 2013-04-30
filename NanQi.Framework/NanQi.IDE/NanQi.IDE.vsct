@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+  <Extern href="msobtnid.h"/>
+  <Commands package="guidNanQi_IDEPkg">
+
+    <Groups>
+      <Group guid="guidNanQi_IDECmdSet" id="MSbuildCommandGroup" priority="0x001">
+          <Parent guid="guidSHLMainMenu" id="cmdidMoveFileToProject4"/>
+      </Group>
+    </Groups>
+
+    <Buttons>
+      <Button guid="guidNanQi_IDECmdSet" id="cmdidBuild" priority="0x0" type="Button">
+        <Parent guid="guidNanQi_IDECmdSet" id="MSbuildCommandGroup" />
+          <CommandFlag>DynamicVisibility</CommandFlag>
+          <Strings>
+          <CommandName>cmdidBuild</CommandName>
+          <ButtonText>编译交易</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+ 
+  </Commands>
+
+  <Symbols>
+    <GuidSymbol name="guidNanQi_IDEPkg" value="{cd2b02eb-220f-40df-b7b2-b5f28c4ce332}" />
+    
+    <GuidSymbol name="guidNanQi_IDECmdSet" value="{19dd1f59-76ce-4646-9677-e787d3d856f4}">
+        <IDSymbol name="MSbuildCommandGroup" value="0x1020" />
+        <IDSymbol name="cmdidBuild" value="0x0100" />
+    </GuidSymbol>
+    
+  </Symbols>
+
+</CommandTable>

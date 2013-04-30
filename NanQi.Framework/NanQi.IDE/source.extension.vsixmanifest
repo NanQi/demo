@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+    <Identifier Id="cd2b02eb-220f-40df-b7b2-b5f28c4ce332">
+        <Name>NanQi.IDE</Name>
+        <Author>神棍工作室</Author>
+        <Version>1.0</Version>
+        <Description xml:space="preserve">本软件仅供学习参考，请勿他用。
+By NanQi
+http://nanqi.info</Description>
+        <Locale>2052</Locale>
+        <MoreInfoUrl>http://nanqi.info</MoreInfoUrl>
+        <License>license.txt</License>
+        <InstalledByMsi>false</InstalledByMsi>
+        <SupportedProducts>
+            <VisualStudio Version="10.0">
+                <Edition>Pro</Edition>
+            </VisualStudio>
+        </SupportedProducts>
+        <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+    </Identifier>
+    <References>
+        <Reference Id="Microsoft.VisualStudio.MPF" MinVersion="10.0">
+            <Name>Visual Studio MPF</Name>
+        </Reference>
+    </References>
+    <Content>
+        <VsPackage>|%CurrentProject%;PkgdefProjectOutputGroup|</VsPackage>
+    </Content>
+</Vsix>

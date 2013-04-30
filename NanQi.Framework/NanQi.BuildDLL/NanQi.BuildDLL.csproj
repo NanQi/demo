@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3A29BBF5-F1B0-498E-ADCE-851FC68D61B3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NanQi.BuildDLL</RootNamespace>
+    <AssemblyName>NanQi.BuildDLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NanQi.Framework.Common\NanQi.Framework.Common.csproj">
+      <Project>{FBAFE493-7B29-4F7C-85AC-C13E8812FA38}</Project>
+      <Name>NanQi.Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NanQi.Framework.Control\NanQi.Framework.Control.csproj">
+      <Project>{9A5C63A3-44E4-49DC-8972-D0BB4572CFD1}</Project>
+      <Name>NanQi.Framework.Control</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NanQi.Framework.Host\NanQi.Framework.Host.csproj">
+      <Project>{48B6E151-6D4A-4CD2-A54C-2F940E86EB5B}</Project>
+      <Name>NanQi.Framework.Host</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NanQi.Framework.Presentation\NanQi.Framework.Presentation.csproj">
+      <Project>{6754DC5A-2232-49D4-802E-E2AF37FBBA27}</Project>
+      <Name>NanQi.Framework.Presentation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NanQi.IDE\NanQi.IDE.csproj">
+      <Project>{6A9DF208-6D26-452D-92C6-4D14DFE7B9D3}</Project>
+      <Name>NanQi.IDE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

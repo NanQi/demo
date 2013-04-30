@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Root>
+    <Trade Key="T_RoleManager" Value="角色管理" />
+    <Trade Key="T_ChooseUser" Value="选择用户" />
+</Root>

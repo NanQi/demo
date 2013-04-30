@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\VisualStudio\10.0Exp\Extensions\神棍工作室\NanQi.IDE\1.0\\NanQi.IDE.dll
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\VisualStudio\10.0Exp\Extensions\神棍工作室\NanQi.IDE\1.0\\NanQi.IDE.pkgdef
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\VisualStudio\10.0Exp\Extensions\神棍工作室\NanQi.IDE\1.0\\extension.vsixmanifest
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\VisualStudio\10.0Exp\Extensions\神棍工作室\NanQi.IDE\1.0\\license.txt
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Microsoft\VisualStudio\10.0Exp\Extensions\神棍工作室\NanQi.IDE\1.0\\NanQi.IDE.pdb

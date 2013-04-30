@@ -1,0 +1,5 @@
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Common\bin\Debug\NanQi.Framework.Common.dll
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Common\bin\Debug\NanQi.Framework.Common.pdb
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Common\obj\Debug\NanQi.Framework.Common.dll
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Common\obj\Debug\NanQi.Framework.Common.pdb

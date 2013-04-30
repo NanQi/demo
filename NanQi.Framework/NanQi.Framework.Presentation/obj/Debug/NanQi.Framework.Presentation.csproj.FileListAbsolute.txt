@@ -1,0 +1,6 @@
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Presentation\bin\Debug\NanQi.Framework.Presentation.dll
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Presentation\bin\Debug\NanQi.Framework.Presentation.pdb
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Presentation\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Presentation\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Presentation\obj\Debug\NanQi.Framework.Presentation.dll
+F:\Projects\MyLibrary\NanQi.Framework\NanQi.Framework.Presentation\obj\Debug\NanQi.Framework.Presentation.pdb

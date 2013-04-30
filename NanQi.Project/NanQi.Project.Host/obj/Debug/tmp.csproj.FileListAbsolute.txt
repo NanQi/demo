@@ -1,0 +1,17 @@
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\obj\Debug\ResolveAssemblyReference.cache
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\obj\Debug\NanQi.Project.Form1.T_UserManager.resources
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\obj\Debug\GenerateResource.read.1.tlog
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\obj\Debug\GenerateResource.write.1.tlog
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\obj\Debug\NanQi.Project.Form1.T_UserManager.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\obj\Debug\NanQi.Project.Form1.T_UserManager.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Project.Form1.T_UserManager.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Project.Form1.T_UserManager.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Common.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Control.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Host.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Presentation.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\WeifenLuo.WinFormsUI.Docking.dll
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Common.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Control.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Host.pdb
+f:\Projects\MyLibrary\NanQi.Project\NanQi.Project.Host\NanQi.Framework.Presentation.pdb
