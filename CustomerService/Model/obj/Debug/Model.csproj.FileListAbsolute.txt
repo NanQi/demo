@@ -1,0 +1,20 @@
+F:\风展软件客户服务管理系统\CustomerService\Model\bin\Debug\CustomerService.Model.dll
+F:\风展软件客户服务管理系统\CustomerService\Model\bin\Debug\CustomerService.Model.pdb
+F:\风展软件客户服务管理系统\CustomerService\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\风展软件客户服务管理系统\CustomerService\Model\obj\Debug\CustomerService.Model.dll
+F:\风展软件客户服务管理系统\CustomerService\Model\obj\Debug\CustomerService.Model.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\Model\bin\Debug\CustomerService.Model.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\Model\bin\Debug\CustomerService.Model.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\Model\obj\Debug\CustomerService.Model.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\Model\obj\Debug\CustomerService.Model.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\Model\bin\Debug\CustomerService.Model.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\Model\bin\Debug\CustomerService.Model.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\Model\obj\Debug\CustomerService.Model.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\Model\obj\Debug\CustomerService.Model.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\Model\bin\Debug\CustomerService.Model.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\Model\bin\Debug\CustomerService.Model.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\Model\obj\Debug\CustomerService.Model.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\Model\obj\Debug\CustomerService.Model.pdb

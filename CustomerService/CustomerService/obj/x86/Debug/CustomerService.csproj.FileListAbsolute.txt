@@ -1,0 +1,91 @@
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.dockCustomer.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmCustomer.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmMain.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmTest.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.Properties.Resources.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.exe
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.exe
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmLogin.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.BLL.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.DBUtility.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.Model.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.DAL.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.BLL.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.DBUtility.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.Model.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\CustomerService.DAL.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\CustomerService\bin\Debug\Remember.xml
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.exe
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\Remember.xml
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.exe
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.BLL.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.DBUtility.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.Model.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.DAL.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.BLL.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.DBUtility.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.Model.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.DAL.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmCustomer.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmLogin.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmMain.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmTest.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\Verlinea.ComboBoxTree.ComboBoxTree.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmCustomerGroup.resources
+d:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmAddCustomerGroup.resources
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\bin\Debug\CustomerService.exe.config
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmCustomer1.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.exe.config
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.exe
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.exe
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.BLL.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.DBUtility.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.Model.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.DAL.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.BLL.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.DBUtility.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.Model.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.DAL.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmCustomer.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmCustomerGroup.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmLogin.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmMain.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.Properties.Resources.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\CustomerService.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmService.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\xml\Remember.xml
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\xml\Cities.xml
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\xml\Districts.xml
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\bin\Debug\xml\Provinces.xml
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.dockCustomer.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.dockCustomerGroup.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\WindowsFormsApplication1.WinFormPager.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.ComboBoxTree.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmOption.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.dockService.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmPrint.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.frmReport.resources
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\CustomerService\obj\x86\Debug\CustomerService.dockSolution.resources
+K:\B备份\项目备份\CustomerService\CustomerService\bin\Debug\CustomerService.exe.config
+K:\B备份\项目备份\CustomerService\CustomerService\obj\x86\Debug\CustomerService.exe
+K:\B备份\项目备份\CustomerService\CustomerService\obj\x86\Debug\CustomerService.pdb
+G:\Backup\W未归类\backup\项目备份\CustomerService\CustomerService\bin\Debug\CustomerService.exe.config
+G:\Backup\W未归类\backup\项目备份\CustomerService\CustomerService\obj\x86\Debug\CustomerService.exe
+G:\Backup\W未归类\backup\项目备份\CustomerService\CustomerService\obj\x86\Debug\CustomerService.pdb

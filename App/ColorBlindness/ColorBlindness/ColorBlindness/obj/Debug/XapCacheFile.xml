@@ -1,0 +1,24 @@
+﻿<xapCache source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\ColorBlindness.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/5/10 14:37:34">
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/5/9 22:23:49" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Background.png" archivePath="Background.png" lastWriteTime="2012/5/10 14:28:16" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/5/10 14:28:16" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\obj\Debug\ColorBlindness.dll" archivePath="ColorBlindness.dll" lastWriteTime="2012/5/10 14:37:33" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Toolkit\Oct11\Bin\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="2011/10/6 11:33:14" />
+  <file source="c:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="2012/2/14 21:32:10" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\obj\Debug\en-US\ColorBlindness.resources.dll" archivePath="en-US\ColorBlindness.resources.dll" lastWriteTime="2012/5/10 14:37:33" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\obj\Debug\zh-TW\ColorBlindness.resources.dll" archivePath="zh-TW\ColorBlindness.resources.dll" lastWriteTime="2012/5/10 14:37:33" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\AppResLib.dll.0404.mui" archivePath="AppResLib.dll.0404.mui" lastWriteTime="2012/5/9 22:20:50" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\AppResLib.dll.0409.mui" archivePath="AppResLib.dll.0409.mui" lastWriteTime="2012/5/9 22:20:50" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\AppResLib.dll.0804.mui" archivePath="AppResLib.dll.0804.mui" lastWriteTime="2012/5/9 22:20:50" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\AppResLib.dll" archivePath="AppResLib.dll" lastWriteTime="2012/5/9 22:20:50" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\icons\appbar.feature.email.rest.png" archivePath="icons\appbar.feature.email.rest.png" lastWriteTime="2011/8/29 22:47:42" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\icons\appbar.feature.settings.rest.png" archivePath="icons\appbar.feature.settings.rest.png" lastWriteTime="2011/8/29 22:47:42" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\icons\appbar.questionmark.rest.png" archivePath="icons\appbar.questionmark.rest.png" lastWriteTime="2011/8/29 22:47:42" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\icons\appbar.share.rest.png" archivePath="icons\appbar.share.rest.png" lastWriteTime="2011/8/29 22:13:00" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/5/10 14:30:07" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/5/3 21:00:39" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\icons\appbar.feature.email.rest.png" archivePath="icons\appbar.feature.email.rest.png" lastWriteTime="2011/8/29 22:47:42" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\icons\appbar.feature.settings.rest.png" archivePath="icons\appbar.feature.settings.rest.png" lastWriteTime="2011/8/29 22:47:42" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\icons\appbar.questionmark.rest.png" archivePath="icons\appbar.questionmark.rest.png" lastWriteTime="2011/8/29 22:47:42" />
+  <file source="F:\Projects\Game\ColorBlindness\ColorBlindness\Bin\Debug\icons\appbar.share.rest.png" archivePath="icons\appbar.share.rest.png" lastWriteTime="2011/8/29 22:13:00" />
+</xapCache>

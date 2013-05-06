@@ -1,0 +1,96 @@
+﻿<phone:PhoneApplicationPage xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"  xmlns:my="clr-namespace:Microsoft.Phone.Controls.Maps.Overlays;assembly=Microsoft.Phone.Controls.Maps"  
+    x:Class="Irrigation.IndexPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 包含根网格，其他所有页面内容都位于根网格中-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama x:Name="panoramaIndex" Title="灌溉游戏">
+            <controls:Panorama.TitleTemplate>
+                <DataTemplate>
+                    <TextBlock Text="开垦灌溉" FontSize="100" Margin="0,70,0,0" FontFamily="Tahoma" />
+                </DataTemplate>
+            </controls:Panorama.TitleTemplate>
+
+            <controls:PanoramaItem Header="开始游戏">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Button x:Name="btnEasy" Grid.Row="1" Width="200" Content="简单" Click="btnEasy_Click" />
+                    <Button x:Name="btnNormal" Grid.Row="2" Width="200" Content="普通" Click="btnNormal_Click" />
+                    <Button x:Name="btnHard" Grid.Row="3" Width="200" Content="困难" Click="btnHard_Click" />
+                    <Button x:Name="btnVeryHard" Grid.Row="4" Width="200" Content="自虐" Click="btnVeryHard_Click" />
+                    <TextBlock Grid.Row="6" Text="By NanQi" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <controls:PanoramaItem Header="游戏设置">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <toolkit:ToggleSwitch x:Name="tsSoundEffect" Header="游戏音效" VerticalAlignment="Center" Checked="tsSoundEffect_Checked" Unchecked="tsSoundEffect_Checked" />
+                    <toolkit:ToggleSwitch x:Name="tsBackground" Grid.Row="1" Header="使用背景图片" VerticalAlignment="Center" Checked="tsBackground_Checked" Unchecked="tsBackground_Checked"/>
+                    <!--<toolkit:ToggleSwitch x:Name="tsThreed" Grid.Row="2" Header="暂未开放，敬请期待" VerticalAlignment="Center"/>-->
+                </Grid>
+            </controls:PanoramaItem>
+
+            <controls:PanoramaItem Header="游戏说明">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="名词介绍：&#13;田地：分为未开垦、已开垦和预选田地。&#13;未开垦田地：游戏刚开始游戏区域中未点击的都属于未开垦田地。（难度不同会有少量田地已开垦）&#13;预选田地：游戏上方有三个预选田地，从左到右依次排列，最右边（游戏区域正中间）的预选田地为当前预选田地。&#13;已开垦田地：点击游戏区域中的未开垦田地，将当前预选田地在点击处开垦，成为已开垦田地。" Grid.RowSpan="3" Width="400" HorizontalAlignment="Center" TextWrapping="Wrap" />
+                    <TextBlock Text="游戏规则：&#13;将所有未开垦田地开垦完毕。&#13;疏通水源，灌溉土地。" Grid.Row="3" Width="400"  />
+                    <TextBlock Grid.Row="4" Text="" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <controls:PanoramaItem Header="关于游戏">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="该程序是由神棍工作室制作。&#13;尊重个人劳动成果，请勿盗用。&#13;游戏出自太阁立志传。&#13;背景图片属于本工作室手绘。" Grid.ColumnSpan="2" Grid.RowSpan="2" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" />
+                    <HyperlinkButton x:Name="btnRating" Content="评价与分享" Grid.Row="2" Click="btnRating_Click"/>
+                    <HyperlinkButton x:Name="btnAuthor" Content="联系作者" Grid.Row="3" Click="btnAuthor_Click"/>
+                    <TextBlock Grid.Row="4" Text="" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+                </Grid>
+            </controls:PanoramaItem>
+        </controls:Panorama>
+    </Grid>
+
+    <!--基于 Panorama 的应用程序不应显示 ApplicationBar-->
+
+</phone:PhoneApplicationPage>

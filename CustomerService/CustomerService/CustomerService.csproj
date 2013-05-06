@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C25C7F85-0C2D-49E2-AA9D-E34484E03E04}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CustomerService</RootNamespace>
+    <AssemblyName>CustomerService</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>K:\控件\DLL\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dock\dockSolution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dock\dockSolution.Designer.cs">
+      <DependentUpon>dockSolution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptCustomerInfo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCustomerInfo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dock\dockService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dock\dockService.Designer.cs">
+      <DependentUpon>dockService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dock\dockCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dock\dockCustomer.Designer.cs">
+      <DependentUpon>dockCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DSCustomerService.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSCustomerService.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerGroup.Designer.cs">
+      <DependentUpon>frmCustomerGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dock\dockCustomerGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dock\dockCustomerGroup.Designer.cs">
+      <DependentUpon>dockCustomerGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOption.Designer.cs">
+      <DependentUpon>frmOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrint.Designer.cs">
+      <DependentUpon>frmPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmService.Designer.cs">
+      <DependentUpon>frmService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptCustomerPie.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCustomerPie.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptServiceInfo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptServiceInfo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptServiceMonth.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptServiceMonth.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptServiceTotal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptServiceTotal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UC\LineComboBoxTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\LineComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UC\LineDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UC\ShadowPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UC\LineTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC\ComboBoxTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\WinFormPager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\WinFormPager.designer.cs">
+      <DependentUpon>WinFormPager.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="dock\dockSolution.resx">
+      <DependentUpon>dockSolution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptCustomerInfo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCustomerInfo.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dock\dockService.resx">
+      <DependentUpon>dockService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dock\dockCustomer.resx">
+      <DependentUpon>dockCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerGroup.resx">
+      <DependentUpon>frmCustomerGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dock\dockCustomerGroup.resx">
+      <DependentUpon>dockCustomerGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOption.resx">
+      <DependentUpon>frmOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrint.resx">
+      <DependentUpon>frmPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmService.resx">
+      <DependentUpon>frmService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\rptCustomerPie.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCustomerPie.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptServiceInfo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptServiceInfo.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptServiceMonth.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptServiceMonth.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptServiceTotal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptServiceTotal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ComboBoxTree.resx">
+      <DependentUpon>ComboBoxTree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\WinFormPager.resx">
+      <DependentUpon>WinFormPager.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Report\DSCustomerService.xsc">
+      <DependentUpon>DSCustomerService.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DSCustomerService.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSCustomerService.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\DSCustomerService.xss">
+      <DependentUpon>DSCustomerService.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{38D7AA58-C95B-449B-86C6-A8073A56E11F}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBUtility\DBUtility.csproj">
+      <Project>{0988C62E-247F-471F-A183-DB509C7A3839}</Project>
+      <Name>DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{53995DBB-9836-4647-AD22-865884FDEB9E}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico\Customer.ico" />
+    <Content Include="ico\icon.ico" />
+    <Content Include="ico\Report.ico" />
+    <Content Include="ico\Service.ico" />
+    <Content Include="ico\Sulotion.ico" />
+    <None Include="Resources\Title.png" />
+    <None Include="Resources\search.png" />
+    <Content Include="xml\Cities.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xml\Districts.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xml\Provinces.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xml\Remember.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\tshadowtopright.png" />
+    <None Include="Resources\tshadowright.png" />
+    <None Include="Resources\tshadowdownright.png" />
+    <None Include="Resources\tshadowdownleft.png" />
+    <None Include="Resources\tshadowdown.png" />
+    <None Include="Resources\Left.png" />
+    <None Include="Resources\Right.png" />
+    <None Include="Resources\Service.png" />
+    <None Include="Resources\Report.png" />
+    <None Include="Resources\Customer.png" />
+    <None Include="Resources\Sulotion.png" />
+    <None Include="Resources\Logo_80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

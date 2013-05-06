@@ -1,0 +1,24 @@
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.dll
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.pdb
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\IBatisNet.Common.dll
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\MySql.Data.dll
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\System.Data.SQLite.DLL
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.dll
+F:\风展软件客户服务管理系统\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.pdb
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.dll
+D:\My Documents\Visual Studio 2010\Projects\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\nanqi\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\DBUtility\bin\Debug\CustomerService.DBUtility.pdb
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.dll
+D:\Documents and Settings\Visual Studio 2010\项目\风展软件客户服务管理系统\CustomerService\DBUtility\obj\Debug\CustomerService.DBUtility.pdb

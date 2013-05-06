@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSCustomerService" targetNamespace="http://tempuri.org/DSCustomerService.xsd" xmlns:mstns="http://tempuri.org/DSCustomerService.xsd" xmlns="http://tempuri.org/DSCustomerService.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSCustomerService" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSCustomerService" msprop:Generator_UserDSName="DSCustomerService">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_Customer" msprop:Generator_TableClassName="V_CustomerDataTable" msprop:Generator_TableVarName="tableV_Customer" msprop:Generator_TablePropName="V_Customer" msprop:Generator_RowDeletingName="V_CustomerRowDeleting" msprop:Generator_UserTableName="V_Customer" msprop:Generator_RowChangingName="V_CustomerRowChanging" msprop:Generator_RowEvHandlerName="V_CustomerRowChangeEventHandler" msprop:Generator_RowDeletedName="V_CustomerRowDeleted" msprop:Generator_RowEvArgName="V_CustomerRowChangeEvent" msprop:Generator_RowChangedName="V_CustomerRowChanged" msprop:Generator_RowClassName="V_CustomerRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GUID" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnGUID" msprop:Generator_ColumnPropNameInRow="GUID" msprop:Generator_ColumnPropNameInTable="GUIDColumn" msprop:Generator_UserColumnName="GUID" type="xs:string" minOccurs="0" />
+              <xs:element name="客户编号" msprop:Generator_ColumnVarNameInTable="column客户编号" msprop:Generator_ColumnPropNameInRow="客户编号" msprop:Generator_ColumnPropNameInTable="客户编号Column" msprop:Generator_UserColumnName="客户编号" type="xs:string" minOccurs="0" />
+              <xs:element name="客户名称" msprop:Generator_ColumnVarNameInTable="column客户名称" msprop:Generator_ColumnPropNameInRow="客户名称" msprop:Generator_ColumnPropNameInTable="客户名称Column" msprop:Generator_UserColumnName="客户名称" type="xs:string" minOccurs="0" />
+              <xs:element name="客户组" msprop:Generator_ColumnVarNameInTable="column客户组" msprop:Generator_ColumnPropNameInRow="客户组" msprop:Generator_ColumnPropNameInTable="客户组Column" msprop:Generator_UserColumnName="客户组" type="xs:string" minOccurs="0" />
+              <xs:element name="联系人" msprop:Generator_ColumnVarNameInTable="column联系人" msprop:Generator_ColumnPropNameInRow="联系人" msprop:Generator_ColumnPropNameInTable="联系人Column" msprop:Generator_UserColumnName="联系人" type="xs:string" minOccurs="0" />
+              <xs:element name="联系电话" msprop:Generator_ColumnVarNameInTable="column联系电话" msprop:Generator_ColumnPropNameInRow="联系电话" msprop:Generator_ColumnPropNameInTable="联系电话Column" msprop:Generator_UserColumnName="联系电话" type="xs:string" minOccurs="0" />
+              <xs:element name="传真号码" msprop:Generator_ColumnVarNameInTable="column传真号码" msprop:Generator_ColumnPropNameInRow="传真号码" msprop:Generator_ColumnPropNameInTable="传真号码Column" msprop:Generator_UserColumnName="传真号码" type="xs:string" minOccurs="0" />
+              <xs:element name="电子邮箱" msprop:Generator_ColumnVarNameInTable="column电子邮箱" msprop:Generator_ColumnPropNameInRow="电子邮箱" msprop:Generator_ColumnPropNameInTable="电子邮箱Column" msprop:Generator_UserColumnName="电子邮箱" type="xs:string" minOccurs="0" />
+              <xs:element name="在线通讯" msprop:Generator_ColumnVarNameInTable="column在线通讯" msprop:Generator_ColumnPropNameInRow="在线通讯" msprop:Generator_ColumnPropNameInTable="在线通讯Column" msprop:Generator_UserColumnName="在线通讯" type="xs:string" minOccurs="0" />
+              <xs:element name="parentGUID" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnparentGUID" msprop:Generator_ColumnPropNameInRow="parentGUID" msprop:Generator_ColumnPropNameInTable="parentGUIDColumn" msprop:Generator_UserColumnName="parentGUID" type="xs:string" minOccurs="0" />
+              <xs:element name="GroupParentGUID" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnGroupParentGUID" msprop:Generator_ColumnPropNameInRow="GroupParentGUID" msprop:Generator_ColumnPropNameInTable="GroupParentGUIDColumn" msprop:Generator_UserColumnName="GroupParentGUID" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="V_Service" msprop:Generator_TableClassName="V_ServiceDataTable" msprop:Generator_TableVarName="tableV_Service" msprop:Generator_TablePropName="V_Service" msprop:Generator_RowDeletingName="V_ServiceRowDeleting" msprop:Generator_UserTableName="V_Service" msprop:Generator_RowChangingName="V_ServiceRowChanging" msprop:Generator_RowEvHandlerName="V_ServiceRowChangeEventHandler" msprop:Generator_RowDeletedName="V_ServiceRowDeleted" msprop:Generator_RowEvArgName="V_ServiceRowChangeEvent" msprop:Generator_RowChangedName="V_ServiceRowChanged" msprop:Generator_RowClassName="V_ServiceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GUID" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnGUID" msprop:Generator_ColumnPropNameInRow="GUID" msprop:Generator_ColumnPropNameInTable="GUIDColumn" msprop:Generator_UserColumnName="GUID" type="xs:string" minOccurs="0" />
+              <xs:element name="服务编号" msprop:Generator_ColumnVarNameInTable="column服务编号" msprop:Generator_ColumnPropNameInRow="服务编号" msprop:Generator_ColumnPropNameInTable="服务编号Column" msprop:Generator_UserColumnName="服务编号" type="xs:string" minOccurs="0" />
+              <xs:element name="客户名称" msprop:Generator_ColumnVarNameInTable="column客户名称" msprop:Generator_ColumnPropNameInRow="客户名称" msprop:Generator_ColumnPropNameInTable="客户名称Column" msprop:Generator_UserColumnName="客户名称" type="xs:string" minOccurs="0" />
+              <xs:element name="客户组" msprop:Generator_ColumnVarNameInTable="column客户组" msprop:Generator_ColumnPropNameInRow="客户组" msprop:Generator_ColumnPropNameInTable="客户组Column" msprop:Generator_UserColumnName="客户组" type="xs:string" minOccurs="0" />
+              <xs:element name="服务类型" msprop:Generator_ColumnVarNameInTable="column服务类型" msprop:Generator_ColumnPropNameInRow="服务类型" msprop:Generator_ColumnPropNameInTable="服务类型Column" msprop:Generator_UserColumnName="服务类型" type="xs:string" minOccurs="0" />
+              <xs:element name="受理时间" msprop:Generator_ColumnVarNameInTable="column受理时间" msprop:Generator_ColumnPropNameInRow="受理时间" msprop:Generator_ColumnPropNameInTable="受理时间Column" msprop:Generator_UserColumnName="受理时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="解决时间" msprop:Generator_ColumnVarNameInTable="column解决时间" msprop:Generator_ColumnPropNameInRow="解决时间" msprop:Generator_ColumnPropNameInTable="解决时间Column" msprop:Generator_UserColumnName="解决时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="维护人员" msprop:Generator_ColumnVarNameInTable="column维护人员" msprop:Generator_ColumnPropNameInRow="维护人员" msprop:Generator_ColumnPropNameInTable="维护人员Column" msprop:Generator_UserColumnName="维护人员" type="xs:string" minOccurs="0" />
+              <xs:element name="customerGUID" msprop:Generator_ColumnVarNameInTable="columncustomerGUID" msprop:Generator_ColumnPropNameInRow="customerGUID" msprop:Generator_ColumnPropNameInTable="customerGUIDColumn" msprop:Generator_UserColumnName="customerGUID" type="xs:string" minOccurs="0" />
+              <xs:element name="groupGUID" msprop:Generator_ColumnVarNameInTable="columngroupGUID" msprop:Generator_ColumnPropNameInRow="groupGUID" msprop:Generator_ColumnPropNameInTable="groupGUIDColumn" msprop:Generator_UserColumnName="groupGUID" type="xs:string" minOccurs="0" />
+              <xs:element name="groupParentGUID" msprop:Generator_ColumnVarNameInTable="columngroupParentGUID" msprop:Generator_ColumnPropNameInRow="groupParentGUID" msprop:Generator_ColumnPropNameInTable="groupParentGUIDColumn" msprop:Generator_UserColumnName="groupParentGUID" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,42 @@
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\ApplicationIcon.png
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Background.png
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Irrigation.dll
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Irrigation.pdb
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\AppManifest.xaml
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Irrigation.xap
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.xml
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\App.g.i.cs
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\IndexPage.g.i.cs
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\MainPage.g.i.cs
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\Irrigation.g.resources
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\Irrigation.dll
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\Irrigation.pdb
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\obj\Release\XapCacheFile.xml
+D:\Documents and Settings\Visual Studio 2010\Projects\Game\Irrigation\Irrigation\Bin\Release\Audio\putdown.wav
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Audio\putdown.wav
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Irrigation.dll
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Irrigation.pdb
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\AppManifest.xaml
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Irrigation.xap
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.dll
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.xml
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\App.g.i.cs
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\IndexPage.g.i.cs
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\MainPage.g.i.cs
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\Irrigation.g.resources
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\Irrigation.dll
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\Irrigation.pdb
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\XapCacheFile.xml
+F:\Projects\Game\Irrigation\Irrigation\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+F:\Projects\Game\Irrigation\Irrigation\obj\Release\ResolveAssemblyReference.cache

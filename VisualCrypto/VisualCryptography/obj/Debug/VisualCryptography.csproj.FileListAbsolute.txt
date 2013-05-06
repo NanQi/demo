@@ -1,0 +1,8 @@
+F:\Projects\Code\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe
+F:\Projects\Code\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.pdb
+F:\Projects\Code\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csprojResolveAssemblyReference.cache
+F:\Projects\Code\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.Form1.resources
+F:\Projects\Code\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.Properties.Resources.resources
+F:\Projects\Code\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.GenerateResource.Cache
+F:\Projects\Code\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.exe
+F:\Projects\Code\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.pdb

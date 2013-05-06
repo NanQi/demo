@@ -1,0 +1,102 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="ColorBlindness.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" d:DesignHeight="768" d:DesignWidth="480">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="{Binding Path=Localizedresources.ApplicationTitle, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="{Binding Path=Localizedresources.PageTitle, Source={StaticResource LocalizedStrings}}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <StackPanel x:Name="TitleImageStackPanel" HorizontalAlignment="Center" 
+                        Orientation="Horizontal" Margin="10">
+                <StackPanel.Resources>
+                    <Style TargetType="Rectangle">
+                        <Setter Property="Width" Value="48" />
+                        <Setter Property="Height" Value="48" />
+                        <Setter Property="Margin" Value="1" />
+                    </Style>
+                </StackPanel.Resources>
+                <Rectangle Fill="Red" />
+                <Rectangle Fill="Blue" />
+                <Rectangle Fill="Cyan" />
+                <Rectangle Fill="Purple" />
+                <Rectangle Fill="Yellow" />
+                <Rectangle Fill="Green" />
+            </StackPanel>
+
+            <TextBlock x:Name="HelpTextBlock" Grid.Row="1" HorizontalAlignment="Center" TextWrapping="Wrap"
+                       Margin="20" LineHeight="35" >
+                <TextBlock.Inlines>
+                    <Run>游戏开始时上方会出现一个有颜色的文字例如文字是[</Run>
+                    <Span Foreground="Blue">红色</Span>]，但这文字的颜色是蓝色，这个答案就是[蓝色]<LineBreak />下方共有6个选择，这选择的字亦有不同颜色，例如[<Span Foreground="Blue">青色</Span>]、[<Span Foreground="Yellow">紫色</Span>]、[<Span Foreground="Green">蓝色</Span>]、[<Span Foreground="Cyan">红色</Span>]、[<Span Foreground="Red">绿色</Span>]、[<Span Foreground="Purple">黄色</Span>]便要选择上方的[<Span Foreground="Green">蓝色</Span>]，才是正确答案<LineBreak />游戏开始时会有1000分，每按错1次减20分，整个游戏共有20题，全部答完就会结束游戏
+                </TextBlock.Inlines>
+            </TextBlock>
+
+            <Grid x:Name="AboutGrid" Width="300" Margin="20" Grid.Row="1" Visibility="Collapsed" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="3*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <TextBlock TextWrapping="Wrap" LineHeight="35" Grid.Row="1"
+                           Text="{Binding Path=Localizedresources.Explain, Source={StaticResource LocalizedStrings}}" />
+                <HyperlinkButton x:Name="btnAuthor" Content="{Binding Path=Localizedresources.Author, Source={StaticResource LocalizedStrings}}" Grid.Row="2" Click="btnAuthor_Click"/>
+            </Grid>
+
+            <Button x:Name="btnStart" Grid.Row="2" HorizontalAlignment="Center"
+                        Content="{Binding Path=Localizedresources.Start, Source={StaticResource LocalizedStrings}}" Click="btnStart_Click">
+                <Button.Background>
+                    <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                </Button.Background>
+            </Button>
+
+            <HyperlinkButton x:Name="hbtnShare" HorizontalAlignment="Left" Grid.Row="2" Click="hbtnShare_Click"
+                             Content="{Binding Path=Localizedresources.Share, Source={StaticResource LocalizedStrings}}"  />
+            <HyperlinkButton x:Name="hbtnAbout" HorizontalAlignment="Right" Grid.Row="2" Click="hbtnAbout_Click"
+                             Content="{Binding Path=Localizedresources.About, Source={StaticResource LocalizedStrings}}" />
+
+
+            <TextBlock Grid.Row="3" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10"
+                       Text="By NanQi" />
+        </Grid>
+    </Grid>
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="btnShare" IconUri="/icons/appbar.share.rest.png" Text="分享" Click="btnShare_Click"/>
+            <shell:ApplicationBarIconButton x:Name="btnAbout" IconUri="/icons/appbar.questionmark.rest.png" Text="关于" Click="btnAbout_Click"/>
+            <shell:ApplicationBarIconButton x:Name="btnEmail" IconUri="/icons/appbar.feature.email.rest.png" Text="邮件" Click="btnEmail_Click"/>
+            <shell:ApplicationBarIconButton x:Name="btnSettings" IconUri="/icons/appbar.feature.settings.rest.png" Text="设置" Click="btnSettings_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

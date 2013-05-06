@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator Manager", "Elevator Manager\Elevator Manager.csproj", "{0FF3283E-3D9F-494D-AF2E-6EF5D864FCC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{BDDDC5F1-6749-40D5-9EB4-A7CBA3967974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{9EF5BECA-C3CE-4685-99BD-2D59044C5E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{FB04DC48-1AFD-4C3C-B6E2-03D963765EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF3283E-3D9F-494D-AF2E-6EF5D864FCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF3283E-3D9F-494D-AF2E-6EF5D864FCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF3283E-3D9F-494D-AF2E-6EF5D864FCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF3283E-3D9F-494D-AF2E-6EF5D864FCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDDC5F1-6749-40D5-9EB4-A7CBA3967974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDDC5F1-6749-40D5-9EB4-A7CBA3967974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDDC5F1-6749-40D5-9EB4-A7CBA3967974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDDC5F1-6749-40D5-9EB4-A7CBA3967974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF5BECA-C3CE-4685-99BD-2D59044C5E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF5BECA-C3CE-4685-99BD-2D59044C5E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF5BECA-C3CE-4685-99BD-2D59044C5E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF5BECA-C3CE-4685-99BD-2D59044C5E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB04DC48-1AFD-4C3C-B6E2-03D963765EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB04DC48-1AFD-4C3C-B6E2-03D963765EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB04DC48-1AFD-4C3C-B6E2-03D963765EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB04DC48-1AFD-4C3C-B6E2-03D963765EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
