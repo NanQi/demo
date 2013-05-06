@@ -1,0 +1,10 @@
+F:\Projects\blog\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+F:\Projects\blog\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+F:\Projects\blog\LifeGame\LifeGame\obj\x86\Debug\LifeGame.FrmMain.resources
+F:\Projects\blog\LifeGame\LifeGame\obj\x86\Debug\LifeGame.Properties.Resources.resources
+F:\Projects\blog\LifeGame\LifeGame\obj\x86\Debug\LifeGame.csproj.GenerateResource.Cache
+F:\Projects\blog\LifeGame\LifeGame\obj\x86\Debug\LifeGame.exe
+F:\Projects\blog\LifeGame\LifeGame\obj\x86\Debug\LifeGame.pdb
+F:\Projects\blog\LifeGame\LifeGame\obj\x86\Debug\LifeGame.csprojResolveAssemblyReference.cache
+F:\Projects\blog\LifeGame\LifeGame\bin\Debug\Untity.dll
+F:\Projects\blog\LifeGame\LifeGame\bin\Debug\Untity.pdb
